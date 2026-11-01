@@ -1,0 +1,6 @@
+{
+  "name": "Banco Imobiliário GGB",
+  "description": "Aplicativo bancário e gerenciador de imóveis para jogo de tabuleiro Investimento Imobiliário GGB.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
